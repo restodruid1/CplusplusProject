@@ -1,0 +1,2 @@
+U:\Project3\Debug\Project3.exe
+U:\Project3\Debug\Project3.pdb
