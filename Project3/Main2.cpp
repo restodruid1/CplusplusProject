@@ -3,7 +3,7 @@
 #include <string>
 #include <map>
 #include <stdexcept>
-#include "GrocerItem.h"
+#include "GrocerItem.cpp"
 
 using namespace std;
 
